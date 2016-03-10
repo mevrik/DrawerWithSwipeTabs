@@ -22,6 +22,10 @@ public class MainActivity extends AppCompatActivity{
 
         /**
          *Setup the DrawerLayout and NavigationView Narendra harny
+         * kahsjkdasdkhasjkdhjksakdkaskjhdk
+         * \asndlasldlasdljsa
+         * asdk;ajsd;;lsakd;
+         * asdj;asjdjas;d
          */
 
            //  mDrawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
