@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity{
         setContentView(R.layout.activity_main);
 
         /**
-         *Setup the DrawerLayout and NavigationView
+         *Setup the DrawerLayout and NavigationView Narendra harny
          */
 
            //  mDrawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
